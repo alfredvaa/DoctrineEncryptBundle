@@ -1,5 +1,9 @@
 #DoctrineEncryptBundle
 
+this is a fork from the bundle created by ambta.
+
+---
+
 Bundle allows to create doctrine entities with fields that will be protected with 
 help of some encryption algorithm in database and it will be clearly for developer, because bundle is uses doctrine life cycle events
 
